@@ -1,5 +1,38 @@
+ /*this is not connecting to my html and I need help.*/
 li.inline-block{
     display: inline-block;
     vertical-align: top;
 }
-
+li{
+    color:coral;
+}
+.logo{
+    width:23%;
+    padding:1%;
+    text-align:center;
+}
+nav{
+    width:73%;
+    padding: 1%;
+}
+ul{
+    margin-left:auto;
+    width:50%
+}
+section.heroImg{
+    height:600px;
+    padding:25px
+}
+div.content{
+    width: 500px;
+    margin:auto;
+    background-color: darkolivegreen;
+}
+footer{
+    background-color: #373738;
+    display:inline-block;
+    vertical-align: top;
+}
+footer.li{
+    padding:1%;
+}
