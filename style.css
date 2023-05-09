@@ -40,6 +40,8 @@ footer{
 }
 footer.ul{
     margin-left: auto;
+    margin-right: auto;
     width:50%;
     outline: 1px solid red;
+    padding:10px;
 }
