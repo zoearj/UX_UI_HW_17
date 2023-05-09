@@ -35,7 +35,10 @@ footer{
     background-color: #373738;
     width:100%;
     padding: 1%;
-    text-align:left;
     display:inline-block;
     vertical-align:top;
+}
+footer.ul{
+    margin-left: auto;
+    width:50%;
 }
