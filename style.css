@@ -33,7 +33,7 @@ div.content{
 }
 footer{
     background-color: #373738;
-    display:inline-block;
+    display:inline-flex;
     vertical-align: top;
 }
 footer.li{
