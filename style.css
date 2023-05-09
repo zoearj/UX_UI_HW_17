@@ -16,7 +16,7 @@ li{
 }
 nav{
     width:73%;
-    padding: 10%;
+    padding:1%;
 }
 ul{
     margin-left:auto;
@@ -34,7 +34,8 @@ div.content{
 footer{
     background-color: #373738;
     width:100%;
-    padding: 10%;
+    padding: 1%;
     text-align:center;
-    display: flex;
+    display:inline-block;
+    vertical-align:top;
 }
