@@ -36,10 +36,10 @@ footer{
     width:100%;
     padding: 1%;
     display:inline-block;
-    vertical-align:top;
-    outline: 1px solid red; 
+    vertical-align:top; 
 }
 footer.ul{
     margin-left: auto;
     width:50%;
+    outline: 1px solid red;
 }
